@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2529340e2999bb6418bfba9dacd59a84, type: 3}
+  m_Name: Item_Strawberry
+  m_EditorClassIdentifier: 
+  <ID>k__BackingField: 4
+  <Name>k__BackingField: "\u041A\u043B\u0443\u0431\u043D\u0438\u043A\u0430"
+  <MainImage>k__BackingField: {fileID: 21300000, guid: 140169fe467b8b649aa2541e0c8d6c09, type: 3}
+  _upgradeInfos:
+  - description: "\u041A\u043B\u0443\u0431\u043D\u0438\u043A\u0430 1"
+    sprite: {fileID: 0}
+    price: 0
+    requireableLevel: 0
+  - description: "\u041A\u043B\u0443\u0431\u043D\u0438\u043A\u0430 2"
+    sprite: {fileID: 0}
+    price: 0
+    requireableLevel: 3
+  - description: "\u041A\u043B\u0443\u0431\u043D\u0438\u043A\u0430 3"
+    sprite: {fileID: 0}
+    price: 0
+    requireableLevel: 5
+  - description: "\u041A\u043B\u0443\u0431\u043D\u0438\u043A\u0430 4"
+    sprite: {fileID: 0}
+    price: 0
+    requireableLevel: 8

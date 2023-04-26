@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd499f2e57380ec43974a740f290e110, type: 3}
+  m_Name: Soda_SpawnController
+  m_EditorClassIdentifier: 
+  spawnPrefabList:
+  - {fileID: 145262704583914481, guid: bf246305d391d06488346484b6e242d8, type: 3}
+  timeToStartRange:
+    min: 1
+    max: 7
+  timeBetweenSpawnRange:
+    min: 0
+    max: 0
+  startSpeedRange:
+    min: 12
+    max: 15
+  isSpeedRising: 1
+  scale: 1
+  isNegative: 1
+  scoreBonus: 3
+  timeBonus: 0
+  doubleScoreTime: 0
